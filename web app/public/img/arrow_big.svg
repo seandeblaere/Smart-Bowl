@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 244 243.96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke: #b3b3b3;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-2, .cls-3, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2, .cls-6 {
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-4 {
+        fill: #ed1c24;
+        stroke: #ed1c24;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        stroke: #e6e6e6;
+      }
+
+      .cls-5, .cls-7 {
+        display: none;
+      }
+
+      .cls-6 {
+        stroke: #ccc;
+      }
+    </style>
+  </defs>
+  <circle class="cls-5" cx="122" cy="122" r="120"/>
+  <g class="cls-7">
+    <line class="cls-6" x1="122" y1="10" x2="122" y2="30"/>
+    <line class="cls-6" x1="66" y1="25.01" x2="76" y2="42.33"/>
+    <line class="cls-6" x1="25.01" y1="66" x2="42.33" y2="76"/>
+    <line class="cls-6" x1="10" y1="122" x2="30" y2="122"/>
+    <line class="cls-6" x1="25.01" y1="178" x2="42.33" y2="168"/>
+    <line class="cls-6" x1="66" y1="218.99" x2="76" y2="201.67"/>
+    <line class="cls-6" x1="122" y1="234" x2="122" y2="214"/>
+    <line class="cls-6" x1="178" y1="218.99" x2="168" y2="201.67"/>
+    <line class="cls-6" x1="218.99" y1="178" x2="201.67" y2="168"/>
+    <line class="cls-6" x1="234" y1="122" x2="214" y2="122"/>
+    <line class="cls-6" x1="218.99" y1="66" x2="201.67" y2="76"/>
+    <line class="cls-6" x1="178" y1="25.01" x2="168" y2="42.33"/>
+  </g>
+  <g class="cls-7">
+    <line class="cls-6" x1="122" y1="233" x2="122" y2="212"/>
+    <line class="cls-6" x1="122" y1="37" x2="122" y2="16"/>
+    <line class="cls-6" x1="234" y1="122" x2="213" y2="122"/>
+    <line class="cls-6" x1="38" y1="122" x2="17" y2="122"/>
+    <line class="cls-6" x1="46.3" y1="197.75" x2="61.15" y2="182.9"/>
+    <line class="cls-6" x1="184.9" y1="59.15" x2="199.75" y2="44.3"/>
+    <line class="cls-6" x1="203.99" y1="198.45" x2="189.14" y2="183.6"/>
+    <line class="cls-6" x1="65.4" y1="59.86" x2="50.55" y2="45.01"/>
+  </g>
+  <g>
+    <line class="cls-3" x1="122" y1="29.76" x2="122" y2="120"/>
+    <polygon class="cls-1" points="115.22 31.74 122 20 128.78 31.74 115.22 31.74"/>
+  </g>
+  <g class="cls-7">
+    <g>
+      <line class="cls-3" x1="188.24" y1="122" x2="122" y2="122"/>
+      <polygon class="cls-1" points="186.26 115.22 198 122 186.26 128.78 186.26 115.22"/>
+    </g>
+  </g>
+  <circle class="cls-4" cx="122" cy="122" r="2.5"/>
+  <g class="cls-7">
+    <line class="cls-2" x1="163.73" y1="225.36" x2="155.57" y2="206.02"/>
+    <line class="cls-2" x1="87.54" y1="44.78" x2="79.38" y2="25.43"/>
+    <line class="cls-2" x1="223.78" y1="79.56" x2="204.43" y2="87.72"/>
+    <line class="cls-2" x1="43.19" y1="155.75" x2="23.84" y2="163.91"/>
+    <line class="cls-2" x1="80.28" y1="222.31" x2="88.19" y2="202.85"/>
+    <line class="cls-2" x1="154.1" y1="40.74" x2="162.01" y2="21.29"/>
+    <line class="cls-2" x1="225.84" y1="161.66" x2="206.39" y2="153.76"/>
+    <line class="cls-2" x1="44.28" y1="87.84" x2="24.82" y2="79.94"/>
+  </g>
+</svg>

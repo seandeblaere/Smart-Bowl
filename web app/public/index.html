@@ -1,0 +1,51 @@
+<!-- Hier kom je na in te loggen. Je krijgt de optie om naar inputscherm of naar gegevenscherm over te schakelen-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Smartbowl</title>
+    <link rel="stylesheet" href="../css/reset.css" />
+    <link rel="stylesheet" href="../css/main.css" />
+  </head>
+  <body class="option">
+    <h1>Smart Bowl</h1>
+
+    <div class="flex_wrapper">
+      <!-- clock -->
+      <section class="flex">
+        <div class="clock">
+          <img
+            src="../img/clock_back.svg"
+            alt="back of clock"
+            id="clock_back"
+          />
+          <div class="arrows">
+            <img
+              src="../img/arrow_small.svg"
+              alt="small arrow"
+              id="small_arrow"
+            />
+            <img src="../img/arrow_big.svg" alt="big arrow" id="big_arrow" />
+          </div>
+        </div>
+        <a href="inputscherm.html" id="clock_button">Voedingstijd instellen</a>
+      </section>
+      <!-- graph -->
+      <section class="flex_graph">
+        <section>
+          <div class="graph">
+            <div class="first_column"></div>
+            <div class="second_column"></div>
+            <div class="third_column"></div>
+          </div>
+          <a href="gegevensscherm.html" class="graph_button"
+            >Gegevens bekijken</a
+          >
+        </section>
+      </section>
+    </div>
+
+    <script src="js/app.js"></script>
+  </body>
+</html>

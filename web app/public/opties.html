@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Smart Bowl Control</title>
+  </head>
+  <body>
+    <h1>Smart Bowl Controls</h1>
+    <input
+      type="number"
+      id="userInput"
+      placeholder="Set target weight (grams)"
+    />
+    <button id="weight">Set Weight</button>
+    <br /><br />
+    <input type="number" id="hoursInput" placeholder="Hours" min="0" />
+    <input type="number" id="minutesInput" placeholder="Minutes" min="0" />
+    <button id="cooldown">Set Cooldown Time</button>
+    <br /><br />
+    <button id="feed">Feed Dog</button>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/paho-mqtt/1.0.1/mqttws31.min.js"></script>
+    <script src="/js/app.js"></script>
+  </body>
+</html>
