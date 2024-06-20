@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Input</title>
+    <link rel="stylesheet" href="../css/reset.css" />
+    <link rel="stylesheet" href="../css/main.css" />
+  </head>
+  <body class="input">
+    <h1>Instellingen</h1>
+
+    <h2>Stel hier de tijd in tussen elke voedingsbeurt:</h2>
+    <div class="flex_1000">
+      <div class="input_wrap">
+        <input type="number" id="hoursInput" placeholder="Hours" min="0" />
+        <input type="number" id="minutesInput" placeholder="Minutes" min="0" />
+        <button id="cooldown">Set Cooldown Time</button>
+      </div>
+      <img src="../img/clock.svg" alt="clock" class="img_input" />
+    </div>
+
+    <h2>Stel hier het aantal gram in:</h2>
+    <div class="flex_1000">
+      <div class="input_wrap">
+        <input type="number" id="userInput" placeholder="Set weight (grams)" />
+        <button id="weight">Set Weight</button>
+      </div>
+      <img src="../img/dog_bowl_img.svg" alt="hondenkom" class="img_input" />
+    </div>
+    <a href="index.html">Ga terug</a>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/paho-mqtt/1.0.1/mqttws31.min.js"></script>
+    <script src="/js/app.js"></script>
+    <script src="/js/input.js"></script>
+  </body>
+</html>
